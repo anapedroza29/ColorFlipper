@@ -30,4 +30,4 @@ console.log ("click", function())
 // color.textContent = color[ randomNUmber];
 // // Math.floor()
 // // Math.random()
-// // array.length
+ array.length
